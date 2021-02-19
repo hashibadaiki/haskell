@@ -2,6 +2,10 @@
 
 Haskell の練習リポジトリ
 
+## scriptで実行する方法
+runghc hoge.hs
+main関数が必要
+
 ## REPL の起動
 
 `ghci`
